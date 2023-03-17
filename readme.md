@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Clockknight/Heirarchy-Helper">
+  <a href="https://github.com/Clockknight/Collection-Goldfisher">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     A Discord Bot for making roles on your server act accurately to their categories.
     <br />
-    <a href="https://github.com/Clockknight/Heirarchy-Helper"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Clockknight/Collection-Goldfisher"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Clockknight/Heirarchy-Helper">View Demo</a>
+    <a href="https://github.com/Clockknight/Collection-Goldfisher">View Demo</a>
     ·
-    <a href="https://github.com/Clockknight/Heirarchy-Helper/issues">Report Bug</a>
+    <a href="https://github.com/Clockknight/Collection-Goldfisher/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Clockknight/Heirarchy-Helper/issues">Request Feature</a>
+    <a href="https://github.com/Clockknight/Collection-Goldfisher/issues">Request Feature</a>
   </p>
 </div>
 
@@ -91,8 +91,6 @@
 
 * [![dotenv][]][]
 * [![json][]][]
-* [![os][]][]
-* [![Disnake][]][]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,15 +99,15 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Getting the bot into your server is very easy!
+Collection Goldfish is easy to use!
 
 ### Prerequisites
 
-All you need in order to use this bot in your server is admin permissions in a server you'd like to use it in!
+
 
 ### Installation
 
-1.[Please use it in your server! Linked here.](https://discord.com/api/oauth2/authorize?client_id=922932650333859840&permissions=343865829376&scope=bot)
+1.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -161,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Tyler Wang - [@AbsUnchk](https://twitter.com/AbsUnchk) - hello@tylerhanyinwang.com
 
-Project Link: [https://github.com/Clockknight/Heirarchy-Helper](https://github.com/Clockknight/Heirarchy-Helper)
+Project Link: [https://github.com/Clockknight/Collection-Goldfisher](https://github.com/Clockknight/Collection-Goldfisher)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,16 +167,16 @@ Project Link: [https://github.com/Clockknight/Heirarchy-Helper](https://github.c
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Clockknight/album-downloader.svg?style=for-the-badge
-[contributors-url]: https://github.com/Clockknight/album-downloader/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Clockknight/album-downloader.svg?style=for-the-badge
-[forks-url]: https://github.com/Clockknight/album-downloader/network/members
-[stars-shield]: https://img.shields.io/github/stars/Clockknight/album-downloader.svg?style=for-the-badge
-[stars-url]: https://github.com/Clockknight/album-downloader/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Clockknight/album-downloader.svg?style=for-the-badge
-[issues-url]: https://github.com/Clockknight/album-downloader/issues
-[license-shield]: https://img.shields.io/github/license/Clockknight/album-downloader.svg?style=for-the-badge
-[license-url]: https://github.com/Clockknight/album-downloader/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Clockknight/Collection-Goldfisher.svg?style=for-the-badge
+[contributors-url]: https://github.com/Clockknight/Collection-Goldfisher/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Clockknight/Collection-Goldfisher.svg?style=for-the-badge
+[forks-url]: https://github.com/Clockknight/Collection-Goldfisher/network/members
+[stars-shield]: https://img.shields.io/github/stars/Clockknight/Collection-Goldfisher.svg?style=for-the-badge
+[stars-url]: https://github.com/Clockknight/Collection-Goldfisher/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Clockknight/Collection-Goldfisher.svg?style=for-the-badge
+[issues-url]: https://github.com/Clockknight/Collection-Goldfisher/issues
+[license-shield]: https://img.shields.io/github/license/Clockknight/Collection-Goldfisher.svg?style=for-the-badge
+[license-url]: https://github.com/Clockknight/Collection-Goldfisher/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tyler-wang-b3241963
 [product-screenshot]: assets/screenshot.png
